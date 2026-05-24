@@ -46,4 +46,3 @@ and save the full report locally.
 
 ---
 
-## Project Structure
